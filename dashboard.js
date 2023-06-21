@@ -40,7 +40,7 @@ function switchDashboard() {
 	}
 }
 
-setInterval(switchDashboard, 15000); // switch dashboards every 15 seconds
+setInterval(switchDashboard, 5000); // switch dashboards every 5 seconds
 
 function getDashboard() {
 	if(new Date().getHours() >= 6){
