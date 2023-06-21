@@ -1,2 +1,2 @@
-# Mantel-dashboard-dco
-Dashboard for Mantel's distribution centre.  
+# Mantel_project Dashboard Warehouse
+Dashboard for Mantel's distribution centre. A dashboard I've build during my period working at Mantel for its warehouse, following the desing of the ux designer. For this project we use the data of three different secctions of the warehouse. Every 5 seconds the dashboard switch to show a different section dashboard. All data is asynchronously updated every 45 seconds.
